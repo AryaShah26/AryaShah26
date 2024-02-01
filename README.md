@@ -1,3 +1,4 @@
+![logo](![github-header-image](https://github.com/AryaShah26/AryaShah26/assets/118267357/093f4136-2794-41e6-9cb2-82be31f4999b))
 <h1 align="center">Hi 👋, I'm Arya Shah</h1>
 <h3 align="center">Passionate about C, C++, Python | Strong in Data Structures & Algorithms | Aspiring Deep Learning Enthusiast | Exploring Neural Networks | Eager to Learn and Contribute</h3>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">

@@ -1,4 +1,4 @@
-![logo](https://github.com/AryaShah26/AryaShah26/assets/118267357/c5ac01b3-6c40-4f38-8012-afdde36342e0))
+![logo](https://github.com/AryaShah26/AryaShah26/assets/118267357/c5ac01b3-6c40-4f38-8012-afdde36342e0)
 
 <h1 align="center">Hi 👋, I'm Arya Shah</h1>
 <h3 align="center">Passionate about C, C++, Python | Strong in Data Structures & Algorithms | Aspiring Deep Learning Enthusiast | Exploring Neural Networks | Eager to Learn and Contribute</h3>

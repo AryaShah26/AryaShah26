@@ -1,5 +1,4 @@
-![logo](./![github-header-image](https://github.com/AryaShah26/AryaShah26/assets/118267357/bcf35018-29c3-4c39-b3cc-4ec13382d1a2)
-)
+![logo](C:\Users\asus\Downloads\github-header-image (2).png)
 <h1 align="center">Hi 👋, I'm Arya Shah</h1>
 <h3 align="center">Passionate about C, C++, Python | Strong in Data Structures & Algorithms | Aspiring Deep Learning Enthusiast | Exploring Neural Networks | Eager to Learn and Contribute</h3>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">

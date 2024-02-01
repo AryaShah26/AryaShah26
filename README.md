@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Shah</h1>
 <h3 align="center">Passionate about C, C++, Python | Strong in Data Structures & Algorithms | Aspiring Deep Learning Enthusiast | Exploring Neural Networks | Eager to Learn and Contribute</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1nPk_uCBFrjuVOR1p8X9Fd&ust=1706858127239000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCvrrvMiYQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryashah26&label=Profile%20views&color=0e75b6&style=flat" alt="aryashah26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryashah26" alt="aryashah26" /></a> </p>
